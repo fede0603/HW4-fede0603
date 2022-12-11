@@ -1,6 +1,6 @@
 # Solution homework 4 - GROUP #12
 
-Our solution to the homework #4
+### Our solution to the homework #4
 
 In this repository you will find the following files with our solutions to homework number 4:
 
